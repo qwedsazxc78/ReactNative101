@@ -1,0 +1,3 @@
+rootProject.name = 'TomatoClock101'
+
+include ':app'
